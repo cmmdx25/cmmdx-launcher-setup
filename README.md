@@ -8,7 +8,7 @@ donwload setup.exe open
 
 click next 
 
-click nexy 
+click next
 
 and install 
 
