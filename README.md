@@ -1,4 +1,4 @@
-cmmdx launcher is a crach launcher 
+cmmdx launcher is a crack launcher 
 
 beta 1.0
 ----------Installing----------------
