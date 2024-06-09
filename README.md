@@ -25,7 +25,7 @@ HAVE FUN!!!
 
 beta 2.0 is out now!
 
-added user informations and skin head shower 
+added user informations and skin head show
 
 replaced main page
 
@@ -33,6 +33,6 @@ replaced everthing parts
 
 optimized
 
-added server online shower
+added server online show
 
 changed new launcher logo
