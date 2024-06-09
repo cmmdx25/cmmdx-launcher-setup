@@ -19,3 +19,17 @@ you'll see desktop short cut
 open and let's play
 
 HAVE FUN!!!
+
+beta 2.0 is out now!
+
+added user informations and skin head shower 
+
+replaced main page
+
+replaced everthing parts 
+
+optimized
+
+added server online shower
+
+changed new launcher logo
