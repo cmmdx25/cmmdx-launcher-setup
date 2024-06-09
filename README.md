@@ -20,6 +20,9 @@ open and let's play
 
 HAVE FUN!!!
 
+
+
+
 beta 2.0 is out now!
 
 added user informations and skin head shower 
